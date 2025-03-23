@@ -1,0 +1,7 @@
+deptid,dept_name,location,budget
+10,Development,New York,500000
+20,Engineering,San Francisco,700000
+30,Marketing,Chicago,300000
+40,Accounting,Miami,400000
+50,Sales,Boston,600000
+60,Human Resources,New York,250000

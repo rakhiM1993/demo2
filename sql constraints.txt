@@ -1,0 +1,13 @@
+create table student(id int primary key ,name varchar not null ,city varchar default 'nagour' ,age int  check(age<20))
+
+insert into student (id,name,age) values (2,'rajesh',21)
+
+drop table student
+
+
+------constraints--
+--unique
+--primary key
+--check constraint
+---foreign key
+--defualt
